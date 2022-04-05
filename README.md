@@ -1,0 +1,2 @@
+# Notes_for_recommadation_algorithm
+这是个人学习推荐系统过程中的笔记
