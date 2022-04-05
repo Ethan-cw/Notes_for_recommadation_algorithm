@@ -9,7 +9,7 @@
 | :------: | :----------------: | :----------------------------------------------------------: |
 |    FM    | :heavy_check_mark: | [Factorization Machines, 2010.](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) |
 |   FFM    | :heavy_check_mark: | [Field-aware Factorization Machines for CTR Prediction, 2015.](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) |
-|   NFM    | :heavy_check_mark: | [Neural factorization machines for sparse predictive analytics.ACM, 2017](https://arxiv.org/pdf/1708.05027.pdf) |
+|   NFM    | :heavy_check_mark: | [Neural Factorization Machines for Sparse Predictive Analytics. ACM, 2017](https://arxiv.org/pdf/1708.05027.pdf) |
 | WideDeep | :heavy_check_mark: | [Wide & Deep Learning for Recommender Systems, 2016](https://arxiv.org/pdf/1606.07792.pdf) |
 |  DeepFM  | :heavy_check_mark: | [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction, 2017.](https://arxiv.org/abs/1703.04247) |
 |   DCN    | :heavy_check_mark: | [Deep & Cross Network for Ad Click Predictions, 2017.](https://arxiv.org/abs/1708.05123) |
